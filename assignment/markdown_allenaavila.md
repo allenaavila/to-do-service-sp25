@@ -22,7 +22,7 @@ Quickstart for writing on GitHub
 
 **_Combined italicized and bold text_**
 
-~~Struckthrough text~~
+~~Strike-through text style~~
 
 ## Limitations of markdown
 While markdown's simplicity lends it numerous advantages, it also leads to some limitations for documentation complex topics that require a more sophisticated approach. 
