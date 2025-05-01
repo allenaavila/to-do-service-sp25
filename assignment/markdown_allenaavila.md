@@ -16,7 +16,7 @@ Quickstart for writing on GitHub
 * You can achieve a variety of useful formats for your documentation.
 
 ### Here are some examples of the things you can achieve with markdown: 
-*Italicized text* 
+*Italicized text* looks like `*Italicized text*` in Markdown.
 
 **Bold text**
 
