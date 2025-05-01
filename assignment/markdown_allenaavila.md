@@ -37,7 +37,14 @@ Tables, for instance, don't seem very straightforward in markdown. I copied this
 I can imagine that if you'd need a slightly more complicated table, creating that table in markdown would be difficult. 
 
 ### Images
-Pictures also don't seem very intuitive to add in markdown. While [there is a method to add them](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#images), I wasn't successful in adding an example here, and it seems like I may need to branch out into using HTML elements to achieve this goal. 
+Pictures also don't seem very intuitive to add in markdown. However, [there is a method to add them](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#images). For example:
+
+Displaying this image of the moon:
+
+![CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Moon_merged_small.jpg/250px-Moon_merged_small.jpg)
+
+uses this Markdown to add it to the page.
+`![CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Moon_merged_small.jpg/250px-Moon_merged_small.jpg)`
 
 # Advice to get started
 You can:
