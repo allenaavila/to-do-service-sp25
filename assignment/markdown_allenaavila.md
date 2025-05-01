@@ -5,7 +5,7 @@ Context
 ------
 Read this markdown file for a quick overview on using markdown for documentation as a technical writer. 
 
-# What is markdown? 
+## What is markdown? 
 According to this [resource](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github "Quickstart for writing on GitHub"):
 > Markdown is an easy-to-read, easy-to-write language for formatting plain text. You can use Markdown syntax, along with some additional HTML tags, to format your writing on GitHub, in places like repository READMEs and comments on pull requests and issues.
 Quickstart for writing on GitHub
