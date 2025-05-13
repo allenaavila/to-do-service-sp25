@@ -1,37 +1,47 @@
 # Code examples
 
-**Author:** \<replace with your name\>
+**Author:** Allena Avila
 
 ## cURL example
 
-\<replace with a description of the example\>
+Below is an example of using a cURL command to get a response with data on user #3. 
 
 ### cURL command
 
 ```shell
-<replace with the command line used>
+curl http://localhost:3000/users/3
 ```
 
 ### cURL response
 
 ```shell
-<replace with the response>
+{
+  "last_name": "Martinez",
+  "first_name": "Marty",
+  "email": "m.martinez@example.com",
+  "id": 3
+}
 ```
 
 ## Postman example
 
-\<replace with a description of the example\>
+Below is an example of using a Postman request to get a response with data on Fred Smithy.
 
 ### Request
 
 **Method**:
 
 ```shell
-<replace with the request used for this example>
+curl -d "last_name=Smithy&first_name=Fred&email=f.Smithys@example.com" -X POST http://localhost:3000/users
 ```
 
 ### Postman response
 
 ```shell
-<replace with the response>
+{
+  "last_name": "Smithy",
+  "first_name": "Fred",
+  "email": "f.Smithys@example.com",
+  "id": 6
+}
 ```
